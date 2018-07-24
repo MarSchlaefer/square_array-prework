@@ -4,4 +4,5 @@ def square_array(array)
     numbers **= 2
     squared_array.push(numbers)
   end
+  return squared_array
 end
